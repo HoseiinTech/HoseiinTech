@@ -6,7 +6,9 @@
 </a> &nbsp;
 <a href="https://t.me/Ho3eiinTech" target="blank"><img align="center" 
             src="https://cdn.cdnlogo.com/logos/t/39/telegram.svg" alt="joetancy" height="40" width="40" />
-
+</a>
+</p>
+        
 - 👋 Hi 
 - 👀 Novice programmer
 - 🌱 **Python Developer**
