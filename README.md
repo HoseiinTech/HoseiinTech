@@ -1,5 +1,5 @@
 - 👋 Hi, I’m mohammad hosein mahmodian
-- 👀 I’m interested in technology
+- 👀 Full-stack developer 
 - 🌱 Python Developer
 - 📫 How to reach me mahmodian8713@gmail.com
 
