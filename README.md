@@ -1,6 +1,6 @@
-<h1 align="center">I'm Mohamadreza Karimi 👋  </h1>
+<h1 align="center">I'm Mohammad Hosein Mahmoodian 👋  </h1>
 
-- 👋 Hi, I’m mohammad hosein mahmodian
+- 👋 Hi 
 - 👀 Novice programmer
 - 🌱 Python Developer
 - 📫 How to reach me mahmodian8713@gmail.com
