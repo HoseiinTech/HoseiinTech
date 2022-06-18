@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @HoseiinTech
+- 👋 Hi, I’m mohammad hosein mahmodian
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning programming
+- 🌱 Python Developer
 - 📫 How to reach me mahmodian8713@gmail.com
 
 <!---
