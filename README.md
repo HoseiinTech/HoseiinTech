@@ -12,7 +12,7 @@
         
 - 👋 Hi 
 - 👀 Novice programmer
-- 🌱 **Python Developer**
+- 🌱 **Backend Developer(python)**
 - 📫 How to reach me mahmodian8713@gmail.com
 
 <!---
