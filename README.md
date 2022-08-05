@@ -8,6 +8,10 @@
 <a href="https://t.me/Ho3eiinTech" target="blank"><img align="center" 
             src="https://cdn.cdnlogo.com/logos/t/39/telegram.svg" alt="joetancy" height="40" width="40" />
 </a>
+</a> &nbsp;
+<a href="https://www.linkedin.com/in/mohammad-hosein-mahmodian-329b33239" target="blank"><img align="center" 
+            src="https://cdn.cdnlogo.com/logos/l/78/linkedin-icon.svg" alt="joetancy" height="40" width="40" />
+</a>
 </p>
         
 - 👋 Hi 
