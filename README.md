@@ -2,7 +2,7 @@
 
 <p align="center">
 </a> &nbsp;
-<a href="https://instagram.com/mhmdhosin.mhmodian2" target="blank"><img align="center"
+<a href="https://www.instagram.com/mhmdhosin.mahmodian/" target="blank"><img align="center"
             src="https://cdn.cdnlogo.com/logos/i/43/instagram-circle.svg" alt="joetancy" height="40" width="40" /> 
 </a> &nbsp;
 <a href="https://t.me/Ho3eiinTech" target="blank"><img align="center" 
