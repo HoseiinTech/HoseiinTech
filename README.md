@@ -16,7 +16,7 @@
         
 - 👋 Hi 
 - 👀 Novice programmer
-- 🌱 **Backend Developer(python)**
+- 🌱 **Backend Developer(Djnago)**
 - 📫 How to reach me mahmodian8713@gmail.com
 
 <!---
