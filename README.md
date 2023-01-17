@@ -13,9 +13,11 @@
             src="https://cdn.cdnlogo.com/logos/l/78/linkedin-icon.svg" alt="joetancy" height="40" width="40" />
 </a>
 </p>
-        
+
+<div align='center'>      
 # 🌱 Junior Back-End Developer(Djnago)
 ## 📫 How to reach me mahmodian8713@gmail.com
+</div>
 
 [![My Skills](https://skillicons.dev/icons?i=python,django,git,github,html,css,bootstrap,ps)](https://skillicons.dev)
 <!---
