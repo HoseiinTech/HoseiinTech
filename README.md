@@ -14,9 +14,8 @@
 </a>
 </p>
         
-- 👋 Hi 
-- 👀 Novice programmer
-## 🌱 Junior Back-End Developer(Djnago)
+
+# 🌱 Junior Back-End Developer(Djnago)
 - 📫 How to reach me mahmodian8713@gmail.com
 
 [![My Skills](https://skillicons.dev/icons?i=python,django,git,github,html,css,bootstrap,ps)](https://skillicons.dev)
