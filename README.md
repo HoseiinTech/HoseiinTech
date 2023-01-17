@@ -18,6 +18,7 @@
 - 👀 Novice programmer
 - 🌱 **Backend Developer(Djnago)**
 - 📫 How to reach me mahmodian8713@gmail.com
+(https://skillicons.dev/icons?i=python,django,html,css,bootstrap,git,github,ps)](https://skillicons.dev)
 
 <!---
 HoseiinTech/HoseiinTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
