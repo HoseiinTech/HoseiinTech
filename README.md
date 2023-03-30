@@ -3,10 +3,10 @@
 <p align="center">
 </a> &nbsp;
 
-<h3 align="center">Instagram: </h3><a href="https://www.instagram.com/mhmdhosin.mahmodian/" target="blank">Click me</a> &nbsp;
+<h3 align="center">Instagram: </h3><a href="https://www.instagram.com/mhmdhosin.mahmodian/" target="blank" align="center">Click me</a> &nbsp;
 
 
-<h3 align="center">Telegram: </h3><a href="https://t.me/mahmodian8713" target="blank">Click me</a>&nbsp;
+<h3 align="center">Telegram: </h3><a href="https://t.me/mahmodian8713" target="blank" align="center">Click me</a>&nbsp;
 </p>
 
 # 🌱 Junior Back-End Developer(Djnago)
