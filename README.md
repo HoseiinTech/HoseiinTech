@@ -3,7 +3,7 @@
 <p align="center">
 </a> &nbsp;
 <a href="https://www.instagram.com/mhmdhosin.mahmodian/" target="blank">
-<img src="https://skillicons.dev/icons?i=instagram" />
+<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" />
 </a> &nbsp;
 <a href="https://t.me/mahmodian8713" target="blank">
             <img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Telegram.png" alt="joetancy" height="40" width="40" />
