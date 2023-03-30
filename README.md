@@ -1,18 +1,27 @@
-<h1 align="center">I'm Mohammad Hossein Mahmoudian 👋  </h1>
-
-<p align="center">
-</a> &nbsp;
-
-<h3 align="center">Instagram: </h3><a href="https://www.instagram.com/mhmdhosin.mahmodian/" target="blank" align="center">Click me</a> &nbsp;
+<h1 align="center">Hi, I'm Mohammad Hossein Mahmoudian 👋</h1>
 
 
-<h3 align="center">Telegram: </h3><a href="https://t.me/mahmodian8713" target="blank" align="center">Click me</a>&nbsp;
-</p>
+```python
 
-# 🌱 Junior Back-End Developer(Djnago)
-## 📫 How to reach me mahmodian8713@gmail.com
+class BackEndDeveloper:
+    def __init__(self):
+        self.name = "Mohammad Hossein Mahmoudian"
+        self.role = "Junior Back-End Developer"
+        self.skills = ["Python", "Django", "MySQL", "Linux", "Git&GitHub", "Basics Network&Security"]
+        
+        self.social = {
+          "Email": "mahmodian8713@gmail.com",
+          "Telegram": "https://t.me/mahmodian8713",
+          "Instagram": "https://www.instagram.com/mhmdhosin.mahmodian/"
+        }
+        
+    def say_hi(self):
+        print("Thank you for your time, I will be happy to work with you")
+        
+me = BackEndDeveloper()
+me.say_hi()
+```
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,linux,mysql,git,github,html,css,bootstrap,ps)](https://skillicons.dev)
 <!---
 HoseiinTech/HoseiinTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
