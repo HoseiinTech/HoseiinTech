@@ -2,16 +2,11 @@
 
 <p align="center">
 </a> &nbsp;
-<a href="https://www.instagram.com/mhmdhosin.mahmodian/" target="blank">
-<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" />
-</a> &nbsp;
-<a href="https://t.me/mahmodian8713" target="blank">
-            <img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Telegram.png" alt="joetancy" height="40" width="40" />
-</a>
-</a> &nbsp;
-<a href="https://www.linkedin.com/in/mohammad-hossein-mahmoudian-548574262/" target="blank"><img align="center" 
-            src="https://cdn.cdnlogo.com/logos/l/78/linkedin-icon.svg" alt="joetancy" height="40" width="40" />
-</a>
+
+<p>Instagram: </p><a href="https://www.instagram.com/mhmdhosin.mahmodian/" target="blank">Click me</a> &nbsp;
+
+
+<p>Telegram: </p><a href="https://t.me/mahmodian8713" target="blank">Click me</a>&nbsp;
 </p>
 
 # 🌱 Junior Back-End Developer(Djnago)
