@@ -22,6 +22,11 @@ class BackEndDeveloper:
 me = BackEndDeveloper()
 me.say_hi()
 ```
+More about me in your terminal
+
+```
+npx hoseiintech
+```
 
 <!---
 HoseiinTech/HoseiinTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
