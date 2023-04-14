@@ -22,7 +22,7 @@ class BackEndDeveloper:
 me = BackEndDeveloper()
 me.say_hi()
 ```
-More about me in your terminal
+More about me in your terminal :
 
 ```
 npx hoseiintech
