@@ -28,6 +28,8 @@ More about me in your terminal :
 npx hoseiintech
 ```
 
+[![](https://visitcount.itsvg.in/api?id=rvicode&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <!---
 HoseiinTech/HoseiinTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
