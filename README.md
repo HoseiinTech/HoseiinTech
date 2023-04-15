@@ -28,7 +28,7 @@ More about me in your terminal :
 npx hoseiintech
 ```
 
-[![](https://visitcount.itsvg.in/api?id=rvicode&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=HoseiinTech&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!---
 HoseiinTech/HoseiinTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
