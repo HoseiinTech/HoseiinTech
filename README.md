@@ -1,4 +1,6 @@
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=800&size=30&pause=1000&color=0A0FD2&background=FBFBFB00&width=490&height=70&lines=Hi%2C+I'm+Mohammad+Hossein++%3A);I'm+Junior+Back-End+Developer" alt="Typing SVG" /></a>
+</p>
 
 ```python
 
