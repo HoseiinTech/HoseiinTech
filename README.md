@@ -9,7 +9,7 @@ class BackEndDeveloper:
     def __init__(self):
         self.name = "Mohammad Hossein Mahmoudian"
         self.role = "Junior Back-End Developer"
-        self.skills = ["Python", "Django", "MySQL", "Linux", "Git&GitHub", "Basics Network&Security"]
+        self.skills = ["Python", "Django & DRF", "MySQL", "Linux", "Git&GitHub", "Basics Network&Security"]
         
         self.social = {
           "Email": "mahmodian8713@gmail.com",
@@ -23,6 +23,12 @@ class BackEndDeveloper:
 me = BackEndDeveloper()
 me.say_hi()
 ```
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,linux,bash,mysql,redis,postgres,docker,git,html,bootstrap,css,postman,ps&perline=7" />
+  </a>
+</p>
+
 More about me in your terminal :
 
 ```
@@ -30,9 +36,4 @@ npx hoseiintech
 ```
 
 [![](https://visitcount.itsvg.in/api?id=HoseiinTech&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
-
-<!---
-HoseiinTech/HoseiinTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
