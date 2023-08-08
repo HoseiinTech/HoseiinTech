@@ -29,14 +29,20 @@ me.say_hi()
   </a>
 </p>
 
+
 More about me in your terminal :
 
 ```
 npx hoseiintech
 ```
+<p align="center">
+    <a href="https://daramet.com/hoseiintech">
+      <img style="height: 50px;" src="daramet-coffe-donate.png" alt="buy me a coffee">
+    </a>
+</p>
+
 
 [![](https://visitcount.itsvg.in/api?id=HoseiinTech&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
-<div class="daramet-embed-donate" id="1196">
-    <script src="https://daramet.com/embed/script.js"></script>
-</div>
+
+
