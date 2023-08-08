@@ -37,3 +37,6 @@ npx hoseiintech
 
 [![](https://visitcount.itsvg.in/api?id=HoseiinTech&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
+<div class="daramet-embed-donate" id="1196">
+    <script src="https://daramet.com/embed/script.js"></script>
+</div>
